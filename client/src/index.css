@@ -1,0 +1,17 @@
+.main {
+  margin: 20px;
+  padding: 20px;
+  font-family: 'Lucida Sans', serif;
+  color: black;
+  background-color: lightcyan;
+  text-align: center;
+  white-space: pre-line;
+}
+
+.trip {
+  font-size: 20px;
+}
+
+.stop {
+  font-size: 14px;
+}
